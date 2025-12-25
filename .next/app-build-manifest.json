@@ -1,0 +1,50 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/d0f40_next_dist_21af8013._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_app_favicon_ico_mjs_6af319c6._.js",
+      "static/chunks/[root-of-the-server]__c6481708._.css",
+      "static/chunks/d0f40_2cf076b9._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_5f24f40b._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_app_layout_tsx_cc4d0f95._.js",
+      "static/chunks/d0f40_next_dist_client_components_builtin_global-error_f46ba02d.js",
+      "static/chunks/d0f40_next_0e6cf8fe._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_components_b62e5250._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_app_page_tsx_f46ba02d._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_2bce13c1._.js",
+      "static/chunks/d0f40_next_dist_compiled_react-dom_bbf4386b._.js",
+      "static/chunks/d0f40_next_dist_compiled_next-devtools_index_e132b979.js",
+      "static/chunks/d0f40_next_dist_compiled_db88de7d._.js",
+      "static/chunks/d0f40_next_dist_client_66e15613._.js",
+      "static/chunks/d0f40_next_dist_f7788c0d._.js",
+      "static/chunks/d0f40_@swc_helpers_cjs_e0539642._.js",
+      "static/chunks/Desktop_daddy-ai-main_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_daddy-ai-main_b7330d6a._.js"
+    ],
+    "/resume/page": [
+      "static/chunks/d0f40_next_dist_21af8013._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_app_favicon_ico_mjs_6af319c6._.js",
+      "static/chunks/[root-of-the-server]__c6481708._.css",
+      "static/chunks/d0f40_34dd34c7._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_5f24f40b._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_app_layout_tsx_cc4d0f95._.js",
+      "static/chunks/d0f40_next_dist_client_components_builtin_global-error_84470bb1.js",
+      "static/chunks/d0f40_1bf13623._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_08377d7a._.js",
+      "static/chunks/d0f40_next_4b18904a._.js",
+      "static/chunks/2c836_pako_dist_pako_esm_mjs_27455d7d._.js",
+      "static/chunks/d0f40_jspdf_dist_jspdf_es_min_5a39b130.js",
+      "static/chunks/d0f40_0cb4eea8._.js",
+      "static/chunks/Desktop_daddy-ai-main_src_app_resume_page_tsx_84470bb1._.js",
+      "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_2bce13c1._.js",
+      "static/chunks/d0f40_next_dist_compiled_react-dom_bbf4386b._.js",
+      "static/chunks/d0f40_next_dist_compiled_next-devtools_index_e132b979.js",
+      "static/chunks/d0f40_next_dist_compiled_db88de7d._.js",
+      "static/chunks/d0f40_next_dist_client_66e15613._.js",
+      "static/chunks/d0f40_next_dist_f7788c0d._.js",
+      "static/chunks/d0f40_@swc_helpers_cjs_e0539642._.js",
+      "static/chunks/Desktop_daddy-ai-main_a0ff3932._.js",
+      "static/chunks/turbopack-Desktop_daddy-ai-main_b7330d6a._.js"
+    ]
+  }
+}

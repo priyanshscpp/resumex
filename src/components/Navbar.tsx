@@ -28,7 +28,7 @@ function Navbar() {
         {/* GitHub Star Button with Magnetic Effect */}
         <MagneticButton distance={0.1}>
           <Link
-            href="https://github.com/priyanshuyadav/resume-x"
+            href="https://github.com/priyanshscpp/resumex"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-2 rounded-lg bg-black px-4 py-2 text-sm font-medium text-white transition-all duration-300 hover:bg-gray-800 md:px-4 md:py-2 dark:bg-white dark:text-black dark:hover:bg-gray-200"

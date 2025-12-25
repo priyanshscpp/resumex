@@ -14,6 +14,16 @@ Built with **Next.js** and powered by **Hugging Face models**.
 
 Follow these steps to set up ResumeX locally:
 
+### Preview 
+
+![alt text](image.png)
+
+![alt text](image-1.png)
+
+![alt text](image-2.png)
+
+![alt text](image-3.png)
+
 ### 1. Clone the Repository
 ```
 git clone https://github.com/priyanshuyadav/daddy-ai

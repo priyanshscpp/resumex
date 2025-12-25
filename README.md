@@ -3,7 +3,7 @@
 ResumeX is your personal AI-powered interview and feedback assistant.  
 It analyzes your **resume** and **job description (JD)** to generate:  
 - 📋 Detailed feedback  
-- 🎯 Personalized interview questions  
+- 🎯 Chatting with PDF using RAG.  
 - 💡 Insights to help you prepare better  
 
 Built with **Next.js** and powered by **Hugging Face models**.  
